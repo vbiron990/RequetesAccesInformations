@@ -1,0 +1,2 @@
+database:
+  url: "sqlite:////path/to/database.db"

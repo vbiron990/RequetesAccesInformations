@@ -1,0 +1,7 @@
+gitdb
+GitPython
+PyYAML
+smmap
+SQLAlchemy
+typing_extensions
+pandas
